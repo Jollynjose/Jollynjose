@@ -7,7 +7,6 @@ Software Engineer
 Software Engineer with a passion for building high-performance, scalable web applications. With experience in JavaScript, TypeScript, React, Next.js, Golang and Node.js, I am very passionate about learning new technologies and contributing to important projects.
 
 * 🌍  I'm based in Philadelphia
-* 🚀  I'm currently working on [Snapshot Reviews](http://www.snapshot.reviews/)
 * 🧠  I'm learning Terraform and AI
 * 🤝  I'm open to collaborating on Health projects, and SaaS
 * ⚡  In the nights, I'm philosopher
